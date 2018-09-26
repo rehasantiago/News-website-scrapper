@@ -1,1 +1,1 @@
-# News-website-scrapper
+# News-website-scraper
